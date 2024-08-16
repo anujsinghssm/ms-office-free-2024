@@ -1,0 +1,12 @@
+Process to download free ms office 2024 :
+
+first open code file
+then copy the .xml line and cmd command with administator then mention the file location first, then paste that .xml file and press enter button . It will take some minutes to downlad depends on your internet speed .
+
+After download complete open ms office for example open ms excel then you seen change activation key click on change activatin key paste this activation key Y63J7-9RNDJ-GD3BV-BDKBP-HH966 then okay 
+
+After close ms excel and restart again excel 
+
+now ms office ready to use 
+
+thank you ... HAPPY LEARNING
